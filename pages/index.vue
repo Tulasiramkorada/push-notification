@@ -2,6 +2,9 @@
   <div class="container">
     <!-- <h1>FCM push notifications.</h1> -->
     <a href="#" @click="authenticate">Login</a>
+    <div class="ff">
+      <h1>hii</h1>
+    </div>
   </div>
 </template>
 
